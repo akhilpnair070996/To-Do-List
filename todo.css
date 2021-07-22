@@ -1,0 +1,13 @@
+.disabledList{
+    
+        pointer-events:none; 
+        opacity:0.6;        
+    
+}
+body{
+        background-color: rgb(99, 231, 81);
+}
+
+#mainnavbar{
+        background: rgb(95, 133, 236);
+}
